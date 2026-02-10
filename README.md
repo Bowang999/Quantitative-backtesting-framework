@@ -1,7 +1,7 @@
 # Quantitative-backtesting-framework
 ## Dataset
 
-The full dataset is hosted on Kaggle.
+The full dataset is hosted on my Kaggle.
 
 🔗 Kaggle Dataset:
 https://www.kaggle.com/datasets/
